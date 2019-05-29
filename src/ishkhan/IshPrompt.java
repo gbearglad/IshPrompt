@@ -34,6 +34,6 @@ public class IshPrompt {
 
     private void createUIComponents() {
         // TODO: place custom component creation code here
-        imageLabel = new JLabel(new ImageIcon("/Users/gilbertcarlson/IdeaProjects/IshPrompt/src/resources/images/DuoforaJob_logo_lowres-01.jpg"));
+        imageLabel = new JLabel(new ImageIcon("/Users/gilbert/IdeaProjects/IshPrompt/src/resources/images/DuoforaJob_logo_lowres-01.jpg"));
     }
 }
