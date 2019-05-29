@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IshPrompt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IshPrompt_jar</output-path>
+    <root id="archive" name="IshPrompt.jar">
+      <element id="module-output" name="IshPrompt" />
+    </root>
+  </artifact>
+</component>
